@@ -1,7 +1,7 @@
 
 
-<h1 align="center">𝐈'𝐦 Clint John Mila (𝐚.𝐤.𝐚 Cejj)</h1>
-<h3 align="center">𝐀 𝐋𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐢𝐧 𝐈𝐓</h3>
+<h1 align="center">𝐈'𝐦 𝐂𝐥𝐢𝐧𝐭 𝐉𝐨𝐡𝐧 𝐌𝐢𝐥𝐚 (𝐚.𝐤.𝐚 𝐂𝐞𝐣𝐣)</h1>
+<h3 align="center">𝔸𝕟 𝕀𝕋 𝕒𝕟𝕕 𝕒 𝔻𝕣𝕖𝕒𝕞𝕖𝕣</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
