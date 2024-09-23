@@ -2,7 +2,7 @@
 
 <h1 align="center">𝐈'𝐦 𝐂𝐥𝐢𝐧𝐭 𝐉𝐨𝐡𝐧 𝐌𝐢𝐥𝐚 (𝐚.𝐤.𝐚 𝐂𝐞𝐣𝐣)</h1>
 <h3 align="center">𝔸𝕟 𝕀𝕋 𝕒𝕟𝕕 𝕒 𝔻𝕣𝕖𝕒𝕞𝕖𝕣</h3>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/KIO0sT2weC8AAAAi/check-mark.gif">
+<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/uL8fXMO5v8QAAAAd/verified-verified-twitter.gif">
 
 <h3 align="left">Introduction</h3>
 <p>I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.</p>
