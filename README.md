@@ -4,14 +4,12 @@
 <img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/5a5c918d-afba-4488-af01-3ea45aef4b8c">
 
 <h3 align="left">Introduction</h3>
-<p>I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.</p>
+<p>I am eager in learning new technologies, problem-solving, and finding innovative solutions to real-world challenges.</p>
 
 <ul>
   <li>🏫 BSIT, University of Science and Technology of Southern Philippines, CDO City</li>
-  <li>🌱 Currently learning <strong>C, Python, Java, Linux, Ethical Hacking, HTML, CSS, JavaScript, Game Development, Unreal Engine, Unity, Godot, Flutter</strong></li>
-  <li>💬 Ask me about <strong>C, Python, Premiere Pro, Photoshop</strong></li>
-  <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">johnlemargonzales@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1RBeeb5KcJulMYNcbhpugAbrUB4QY13vn/view?usp=sharing" target="_blank">Resume</a></li>
+  <li>🌱 Currently learning <strong>Python, Java, HTML, CSS, JavaScript, Premiere Pro, Photoshop</strong></li>
+  <li>📫 How to reach me: <a href="mailto:clintjohnmila28@gmail.com">clintjohnmila28@gmail.com</a></li>
 </ul>
 
 ## Experiences
