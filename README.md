@@ -8,7 +8,7 @@
 
 <ul>
   <li>🏫 BSIT, University of Science and Technology of Southern Philippines, CDO City</li>
-  <li>🌱 Currently learning <strong>Python, Java, HTML, CSS, JavaScript, Premiere Pro, Photoshop</strong></li>
+  <li>🌱 Currently learning and know how to <strong>Python, Java, HTML, CSS, JavaScript, Premiere Pro, Photoshop</strong></li>
   <li>📫 How to reach me: <a href="mailto:clintjohnmila28@gmail.com">clintjohnmila28@gmail.com</a></li>
 </ul>
 
