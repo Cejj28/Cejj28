@@ -13,7 +13,7 @@
 </ul>
 
   
- ## Connect with me:
+ Connect with me:
 
 <p align="left" style="display: flex; gap: 10px;">
    <a href="https://www.facebook.com/cejj.m/" target="_blank">
