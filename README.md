@@ -13,6 +13,13 @@
 </ul>
 
   
+ ## Connect with me:
+
+<p align="left" style="display: flex; gap: 10px;">
+   <a href="https://www.facebook.com/johnlemgonzales" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  
   <a href="https://discord.gg/74jFFFgjNT" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
