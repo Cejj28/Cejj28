@@ -2,7 +2,7 @@
 
 <h1 align="center">𝐈'𝐦 𝐂𝐥𝐢𝐧𝐭 𝐉𝐨𝐡𝐧 𝐌𝐢𝐥𝐚 (𝐚.𝐤.𝐚 𝐂𝐞𝐣𝐣)</h1>
 <h3 align="center">𝔸𝕟 𝕀𝕋 𝕒𝕟𝕕 𝕒 𝔻𝕣𝕖𝕒𝕞𝕖𝕣</h3>
-
+<img align="right" alt="Coding" width="350" src="https://giphy.com/embed/Gf5QiP1TWCO8qYKmt7">
 <iframe src="https://giphy.com/embed/Gf5QiP1TWCO8qYKmt7" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qr-code-quick-response-Gf5QiP1TWCO8qYKmt7">via GIPHY</a></p>
 
 <h3 align="left">Introduction</h3>
