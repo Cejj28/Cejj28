@@ -4,8 +4,6 @@
 <h3 align="center">𝔸𝕟 𝕀𝕋 𝕒𝕟𝕕 𝕒 𝔻𝕣𝕖𝕒𝕞𝕖𝕣</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxbGo1NWc1MjRqdTk1Ynpsb2U3emFvcmphOW9rdTlqa2Y2NnB5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20views&color=0e75b6&style=flat" alt="cybersphinxxx" /> </p>
-
 
 <h3 align="left">Introduction</h3>
 <p>I'm a passionate learner in the field of IT, always eager to explore new technologies and work on exciting projects.</p>
